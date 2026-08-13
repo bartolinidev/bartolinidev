@@ -1,4 +1,4 @@
-![ODIN](https://img.shields.io/badge/Student-brown?style=for-the-badge&logo=theodinproject&logoColor=white&label=The%20Odin%20Project&labelColor=%23A9792B)
+![ODIN](https://img.shields.io/badge/Student%20&%20Contributor-brown?style=for-the-badge&logo=theodinproject&logoColor=white&label=The%20Odin%20Project&labelColor=%23A9792B)
 
 ➔ **Path:** [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
 
