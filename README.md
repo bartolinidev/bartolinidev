@@ -11,6 +11,7 @@
 ![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![ASTRO](https://img.shields.io/badge/Astro-bc52ee?style=for-the-badge&logo=astro&logoColor=white)
 ![NODE](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS-0A0A0A?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🛠️ Tools & Testing
 ![JEST](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest)
