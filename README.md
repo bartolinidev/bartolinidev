@@ -9,7 +9,7 @@
 ![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![ASTRO](https://img.shields.io/badge/Astro-bc52ee?style=for-the-badge&logo=astro&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-181B20?style=for-the-badge&logo=astro&logoColor=E03D80)
 ![NODE](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/EXPRESS-0A0A0A?style=for-the-badge&logo=express&logoColor=white)
 
