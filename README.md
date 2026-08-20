@@ -17,6 +17,7 @@
 ![JEST](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest)
 ![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NPN](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm)
+![VITE](https://img.shields.io/badge/VITE-9135FF?style=for-the-badge&logo=vite&logoColor=F9A703)
 ![WEBPACK](https://img.shields.io/badge/webpack-%234A90E2?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 ![XUBUNTU](https://img.shields.io/badge/xubuntu-%230044AA?style=for-the-badge&logo=xubuntu)
 
