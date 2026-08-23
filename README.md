@@ -29,6 +29,6 @@
 
 ### 📊 GitHub Code Stats
 
-<img src="https://github-toplang-stats.vercel.app/api/stats?username=bartek8b&theme=sunset" />
+<img src="https://github-toplang-stats.vercel.app/api/stats?username=bartolinidev&theme=sunset" />
 
 *Automatically generated stats based on public GitHub repositories.*
