@@ -4,7 +4,7 @@
 
 ---
 
-### 💻 Languages & Frameworks
+#### 💻 Languages & Frameworks
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -13,21 +13,24 @@
 ![NODE](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-0A0A0A?style=for-the-badge&logo=express&logoColor=white)
 
-### 🛠️ Tools & Testing
-![JEST](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest)
+#### 🛠️ Tools & Testing
 ![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NPN](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm)
 ![VITE](https://img.shields.io/badge/VITE-9135FF?style=for-the-badge&logo=vite&logoColor=F9A703)
 ![WEBPACK](https://img.shields.io/badge/webpack-%234A90E2?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
+![JEST](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest)
+![VITEST](https://img.shields.io/badge/VITEST-181B20?style=for-the-badge&logo=vitest&logoColor=00FF74)
+![VB](https://img.shields.io/badge/VIRTUALBOX-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![XUBUNTU](https://img.shields.io/badge/xubuntu-%230044AA?style=for-the-badge&logo=xubuntu)
 
-### 📈 Analytics & Tracking
-![GTM](https://img.shields.io/badge/google%20tag%20manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
-![GA](https://img.shields.io/badge/google%20analytics-%23FFB71B?style=for-the-badge&logo=googleanalytics)
+#### 🔎 Google tools integrations
+![GTM](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![GA](https://img.shields.io/badge/GA4-%23FFB71B?style=for-the-badge&logo=googleanalytics)
+![GSC](https://img.shields.io/badge/GSC-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white)
 
 ---
 
-### 📊 GitHub Code Stats
+#### 📊 GitHub Code Stats
 
 <img src="https://github-toplang-stats.vercel.app/api/stats?username=bartolinidev&theme=sunset" />
 
