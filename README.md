@@ -14,14 +14,13 @@
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-0A0A0A?style=for-the-badge&logo=express&logoColor=white)
 
 #### 🛠️ Tools & Testing
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NPN](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm)
 ![VITE](https://img.shields.io/badge/VITE-9135FF?style=for-the-badge&logo=vite&logoColor=F9A703)
 ![WEBPACK](https://img.shields.io/badge/webpack-%234A90E2?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
 ![JEST](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest)
 ![VITEST](https://img.shields.io/badge/VITEST-181B20?style=for-the-badge&logo=vitest&logoColor=00FF74)
-![VB](https://img.shields.io/badge/VIRTUALBOX-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)
-![XUBUNTU](https://img.shields.io/badge/xubuntu-%230044AA?style=for-the-badge&logo=xubuntu)
 
 #### 🔎 Google tools integrations
 ![GTM](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
@@ -34,4 +33,4 @@
 
 <img src="https://github-toplang-stats.vercel.app/api/stats?username=bartolinidev&theme=sunset" />
 
-*Automatically generated stats based on public GitHub repositories.*
+*Stats based on public GitHub repositories.*
