@@ -12,6 +12,7 @@
 ![ASTRO](https://img.shields.io/badge/Astro-181B20?style=for-the-badge&logo=astro&logoColor=E03D80)
 ![NODE](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-0A0A0A?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
 #### 🛠️ Tools & Testing
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
