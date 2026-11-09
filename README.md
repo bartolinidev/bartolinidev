@@ -27,14 +27,6 @@
 ![Vitest](https://img.shields.io/badge/Vitest-18181B?style=flat-square&logo=vitest&logoColor=00FF74)
 
 #### Google tools integrations
-![GTM](https://img.shields.io/badge/GTM-18181B?style=flat-square&logo=googletagmanager&logoColor=246FDB)
-![GA4](https://img.shields.io/badge/GA4-18181B?style=flat-square&logo=googleanalytics&logoColor=FFB71B)
-![GSC](https://img.shields.io/badge/GSC-18181B?style=flat-square&logo=google-search-console&logoColor=458CF5)
-
----
-
-#### GitHub Code Stats
-
-<img src="https://github-toplang-stats.vercel.app/api/stats?username=bartolinidev&theme=sunset" />
-
-*Stats based on public GitHub repositories.*
+![Tag Manager](https://img.shields.io/badge/Tag%20Manager-18181B?style=flat-square&logo=googletagmanager&logoColor=246FDB)
+![Analytics 4](https://img.shields.io/badge/Analytics%204-18181B?style=flat-square&logo=googleanalytics&logoColor=FFB71B)
+![Search Console](https://img.shields.io/badge/Search%20Console-18181B?style=flat-square&logo=google-search-console&logoColor=458CF5)
