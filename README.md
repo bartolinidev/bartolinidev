@@ -1,35 +1,35 @@
-![ODIN](https://img.shields.io/badge/Student%20&%20Contributor-brown?style=for-the-badge&logo=theodinproject&logoColor=white&label=The%20Odin%20Project&labelColor=%23A9792B)
+![The Odin Project](https://img.shields.io/badge/Student_%26_Contributor-brown?style=flat&logo=theodinproject&logoColor=white&label=The%20Odin%20Project&labelColor=%23A9792B)
 
 ➔ **Path:** [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
 
 ---
 
 #### Languages & Frameworks
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
-![JS](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/REACT-1F2229?style=for-the-badge&logo=react&logoColor=5FDCFC)
-![ASTRO](https://img.shields.io/badge/Astro-181B20?style=for-the-badge&logo=astro&logoColor=E03D80)
+![HTML](https://img.shields.io/badge/HTML-18181B?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-18181B?style=flat-square&logo=css&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-18181B?style=flat-square&logo=astro&logoColor=E03D80)
 
 #### Backend & Databases
-![NODE](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/EXPRESS-0A0A0A?style=for-the-badge&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-18181B?style=flat-square&logo=ejs&logoColor=B4CA65)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1)
 
 #### Tools & Testing
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![NPN](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm)
-![VITE](https://img.shields.io/badge/VITE-9135FF?style=for-the-badge&logo=vite&logoColor=F9A703)
-![WEBPACK](https://img.shields.io/badge/webpack-%234A90E2?style=for-the-badge&logo=webpack&logoColor=%238DD6F9)
-![JEST](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest)
-![VITEST](https://img.shields.io/badge/VITEST-181B20?style=for-the-badge&logo=vitest&logoColor=00FF74)
+![Linux](https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
+![npm](https://img.shields.io/badge/npm-18181B?style=flat-square&logo=npm&logoColor=CB3837)
+![Vite](https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=9135FF)
+![Webpack](https://img.shields.io/badge/Webpack-18181B?style=flat-square&logo=webpack&logoColor=1D78C1)
+![Jest](https://img.shields.io/badge/Jest-18181B?style=flat-square&logo=jest&logoColor=C21325)
+![Vitest](https://img.shields.io/badge/Vitest-18181B?style=flat-square&logo=vitest&logoColor=00FF74)
 
 #### Google tools integrations
-![GTM](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
-![GA](https://img.shields.io/badge/GA4-%23FFB71B?style=for-the-badge&logo=googleanalytics)
-![GSC](https://img.shields.io/badge/GSC-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white)
+![GTM](https://img.shields.io/badge/GTM-18181B?style=flat-square&logo=googletagmanager&logoColor=246FDB)
+![GA4](https://img.shields.io/badge/GA4-18181B?style=flat-square&logo=googleanalytics&logoColor=FFB71B)
+![GSC](https://img.shields.io/badge/GSC-18181B?style=flat-square&logo=google-search-console&logoColor=458CF5)
 
 ---
 
