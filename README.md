@@ -6,7 +6,7 @@
 
 #### Languages & Frameworks
 ![HTML](https://img.shields.io/badge/HTML-18181B?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-18181B?style=flat-square&logo=css&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/CSS-18181B?style=flat-square&logo=css&logoColor=663399)
 ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
 ![Astro](https://img.shields.io/badge/Astro-18181B?style=flat-square&logo=astro&logoColor=E03D80)
