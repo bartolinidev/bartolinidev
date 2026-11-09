@@ -4,17 +4,20 @@
 
 ---
 
-#### 💻 Languages & Frameworks
+#### Languages & Frameworks
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399?style=for-the-badge&logo=css&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/REACT-1F2229?style=for-the-badge&logo=react&logoColor=5FDCFC)
 ![ASTRO](https://img.shields.io/badge/Astro-181B20?style=for-the-badge&logo=astro&logoColor=E03D80)
+
+#### Backend & Databases
 ![NODE](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-0A0A0A?style=for-the-badge&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🛠️ Tools & Testing
+#### Tools & Testing
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NPN](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm)
@@ -23,14 +26,14 @@
 ![JEST](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest)
 ![VITEST](https://img.shields.io/badge/VITEST-181B20?style=for-the-badge&logo=vitest&logoColor=00FF74)
 
-#### 🔎 Google tools integrations
+#### Google tools integrations
 ![GTM](https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
 ![GA](https://img.shields.io/badge/GA4-%23FFB71B?style=for-the-badge&logo=googleanalytics)
 ![GSC](https://img.shields.io/badge/GSC-458CF5?style=for-the-badge&logo=google-search-console&logoColor=white)
 
 ---
 
-#### 📊 GitHub Code Stats
+#### GitHub Code Stats
 
 <img src="https://github-toplang-stats.vercel.app/api/stats?username=bartolinidev&theme=sunset" />
 
